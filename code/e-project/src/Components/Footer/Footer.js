@@ -6,10 +6,10 @@ import pintester_icon from '../Assets/pintester_icon.png'
 import whatsapp_icon from '../Assets/whatsapp_icon.png'
 const Footer=()=>{
     return(
-        <div className="footer">
+        <div className="footer">    
             <div className="footer-logo">
                 <img src={footer_logo}/>
-                <p>SHOPPER</p>
+                <p>MAVERICH</p>
             </div>
             <ul className="footer-links">
                 <li>Company</li>
